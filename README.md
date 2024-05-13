@@ -6,7 +6,7 @@
 
 <b>Discipline | <b> Computer Science Engineering 
 :--|:--|
-<b> Lab | <b> **Digital Logic Circuit Design Virtual Lab**
+<b> Lab | <b> **Computer Organisation and Architecture**
 <b> Experiment|     <b> **Carry-Look-Ahead Adder and Experiment 2**
 
 
