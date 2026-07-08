@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the main difference between half-adders and full-adders?",
+        "answers": {
+          "a": "Nothing basically; full-adders are made up of two half-adders",
+          "b": "Full-adders can handle double digit numbers",
+          "c": "Full-adders have a carry input capability",
+          "d": "Half-adders can only handle single digit numbers"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The MOST commonly used system for representing signed binary numbers is the",
+        "answers": {
+          "a": "2's-complement system",
+          "b": "1's-complement system",
+          "c": "10's-complement system",
+          "d": "Sign-magnitude system"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The time required for a pulse to decrease from 90 to 10 per cent of its maximum value is called",
+        "answers": {
+          "a": "Propagation delay",
+          "b": "Rise time",
+          "c": "Decay time",
+          "d": "Binary level transition period"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which one of the following will give the sum of full adders as output?",
+        "answers": {
+          "a": "Three bit parity checker",
+          "b": "Three point majority circuit",
+          "c": "Three bit counter",
+          "d": "Three bit comparator"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Odd parity of word can be conveniently tested by",
+        "answers": {
+          "a": "AND gate",
+          "b": "OR gate",
+          "c": "XOR gate",
+          "d": "NOR gate"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
